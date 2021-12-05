@@ -195,5 +195,5 @@ class Calculator:
         self.window.mainloop()
 
 if __name__ == "__main__":
-    calc = Calculator()
-    calc.run()
+    cal = Calculator()
+    cal.run()
