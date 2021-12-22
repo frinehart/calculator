@@ -2,7 +2,7 @@
 Author: Francis Rinehart
 Purpose: Calculator App
 Language: Python
-Last Update: 12/22/2021 at 6:52
+Last Update: 12/22/2021
 """
 
 import tkinter as tk
